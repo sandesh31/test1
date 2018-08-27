@@ -7,6 +7,33 @@ ul{ margin-bottom:0px;}
 .container1{ width:1240px;}
 .container2{ width:80%;}
 .navbar{ padding:0px;}
+.navbar-toggleable-md .navbar-nav .nav-link{ font-size:18px; line-height:24px; color:#a3a3a3; margin-left:35px;} 
+.navbar-toggleable-md .navbar-nav .soc-item{ margin-left:35px;}
+.navbar-toggleable-md .navbar-nav .soc-item .nav-link { margin-left:0px; display:inline-block; vertical-align:middle; padding:0px;  font-size:22px; color:#fff;}
+.sqr{width:40px; height:40px; position:relative;margin-left: -4px !important;}
+.sqr i{ position: absolute;top: 50%; left: 50%;  transform: translate(-50%, -50%);}
+.fb{ background:#1c3452;color:#fff;}
+.gp{ background:#df4037;color:#fff;}
+.twtr{ background:#2aaae9;color:#fff;}
+.fb:hover{ color:#1c3452 !important; background:#fff;}
+.gp:hover{color:#df4037 !important; background:#fff;}
+.twtr:hover{ color:#2aaae9 !important;background:#fff;}
+.team-item{ margin-top:1px;}
+.team-item a{ display:inline-block;}
+.team-item .sqr:first-child{ margin-left:0px !important;}
+.team-item .sqr { width: 63.81px; height: 50px;}
+.inf-grp{ position:relative;}
+.grp1{ position: absolute;right: 90px;top: 50px;width: 35px;}
+.grp2{ position: absolute;right: 90px;bottom: 90px;width: 60px;}
+.banner-home{ background:url(../images/banner-home.jpg) no-repeat 0px; background-size:cover; height:600px;}
+.banner-home-text{ text-align:center; width:530px; }
+.desk{ display:block;}
+.btn1{color:#2ebbea; letter-spacing:1px; line-height:20px; font-size:16px;font-weight:700; background:#fff; border-radius:90px; padding: 15px 25px; text-transform:uppercase;}
+.text1{ font-size:45px; line-height:60px; font-weight:700; color:#fff;}
+.text2{text-transform:uppercase;color:#2ebbea;letter-spacing:1px;font-size:14px;font-weight:400;}
+.text3{font-size:18px;font-weight:400;color:#fff; line-height:24px;}
+.text4{font-size:35px;font-weight:400;color:#fff; line-height:45px;}
+.text5{ font-size:22px;font-weight:400;color:#fff; line-height:24px;}
 .text6{ font-size:15px;font-weight:400;color:#fff; line-height:22px;}
 .text7{ font-size:25px;font-weight:400;color:#fff; line-height:26px;}
 .text8{ font-size:35px; line-height:55px; font-weight:700; color:#fff;}
